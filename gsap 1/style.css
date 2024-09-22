@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    color: #f1f1f1;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: #1d1d1d;
+}
+
+#box, #box2, #box3, #box4, #box5, #box6{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+#box5{
+    background-color: aqua;
+}
+
+#box6{
+    background-color: rgb(21, 255, 0);
+}

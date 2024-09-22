@@ -1,0 +1,5 @@
+- gsap.to()
+- gsap.from()
+- gsap.timeline() - create a timeLine and link all desired components and they will run one after the another or else you have to calculate every duration and delay
+- stagger property - if you want all ement to run one after the another
+- yoyo property - repeat an event to and fro
